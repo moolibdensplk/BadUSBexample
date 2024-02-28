@@ -1,4 +1,4 @@
-
+ID 05ac:021e Apple:Keyboard
 REM Title: Ascii Art in Terminal
 REM Author: Moo
 REM Target:  Unix/Linux (requires  

